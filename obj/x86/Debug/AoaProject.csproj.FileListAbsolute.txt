@@ -1,0 +1,7 @@
+c:\users\salman\documents\visual studio 2010\Projects\AoaProject\AoaProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\salman\documents\visual studio 2010\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.exe
+c:\users\salman\documents\visual studio 2010\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.pdb
+c:\users\salman\documents\visual studio 2010\Projects\AoaProject\AoaProject\obj\x86\Debug\AoaProject.exe
+c:\users\salman\documents\visual studio 2010\Projects\AoaProject\AoaProject\obj\x86\Debug\AoaProject.pdb
+D:\Semistr\5th\AOA\aoaProject\AoaProject\AoaProject\obj\x86\Debug\AoaProject.exe
+D:\Semistr\5th\AOA\aoaProject\AoaProject\AoaProject\obj\x86\Debug\AoaProject.pdb
